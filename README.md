@@ -1,16 +1,16 @@
 # 💫 About Me
 Java Full Stack Developer | PG-DAC Graduate  
 
-I build full-stack web applications using **Java, Spring Boot, React.js, and MySQL**.  
-Passionate about designing **clean backend architectures** and **responsive frontend interfaces**.
+I build scalable **full-stack web applications** using **Java, Spring Boot, React.js, and MySQL**.  
+Passionate about designing **clean backend architectures**, **RESTful APIs**, and **responsive user interfaces**.
 
-### 🚀 What I focus on
+### 🚀 What I Focus On
 • Developing **RESTful APIs with Spring Boot**  
 • Building interactive UI using **React.js**  
 • Writing **scalable and maintainable code**  
 • Applying **MVC architecture and OOP principles**
 
-📚 Currently exploring **advanced backend systems** and improving **Data Structures & Algorithms**.
+📚 Currently exploring **advanced backend systems**, **Python for AI/ML**, and improving **Data Structures & Algorithms**.
 
 ---
 
@@ -26,6 +26,7 @@ Passionate about designing **clean backend architectures** and **responsive fron
 
 ### 🧑‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
