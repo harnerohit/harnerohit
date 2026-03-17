@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Rohit Harne</h1>
+
+---
+
 # 💫 About Me
 Java Full Stack Developer | PG-DAC Graduate  
 
