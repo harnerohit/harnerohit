@@ -66,8 +66,8 @@ Passionate about designing **clean backend architectures** and **responsive fron
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💡 Developer Philosophy
+"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
 
 ---
 
