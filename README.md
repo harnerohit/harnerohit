@@ -3,18 +3,18 @@
 ---
 
 # 💫 About Me
-Java Full Stack Developer | PG-DAC Graduate  
+Software Engineer | CDAC PG-DAC Certified  
 
-I build scalable **full-stack web applications** using **Java, Spring Boot, React.js, and MySQL**.  
-Passionate about designing **clean backend architectures**, **RESTful APIs**, and **responsive user interfaces**.
+I build scalable, production-ready applications across **backend and full-stack systems**.  
+Focused on writing **clean, maintainable code**, designing **robust architectures**, and solving real-world problems.
 
 ### 🚀 What I Focus On
-• Developing **RESTful APIs with Spring Boot**  
-• Building interactive UI using **React.js**  
-• Writing **scalable and maintainable code**  
-• Applying **MVC architecture and OOP principles**
+• Designing **scalable backend systems & RESTful APIs**  
+• Building **responsive and interactive user interfaces**  
+• Writing **clean, maintainable, and efficient code**  
+• Applying **OOP principles, MVC architecture & best practices**
 
-📚 Currently exploring **advanced backend systems**, **Python for AI/ML**, and improving **Data Structures & Algorithms**.
+📚 Currently working with **Python for backend & problem-solving**, exploring **advanced system design**, and strengthening **Data Structures & Algorithms**.
 
 ---
 
@@ -40,10 +40,12 @@ Passionate about designing **clean backend architectures**, **RESTful APIs**, an
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Tools
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,14 +53,6 @@ Passionate about designing **clean backend architectures**, **RESTful APIs**, an
 
 ### 📊 Libraries & Tools
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Design & Creative Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
 
