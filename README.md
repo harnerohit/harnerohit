@@ -233,17 +233,12 @@ My goal is to design **AI systems that can reason, retrieve knowledge, use tools
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harnerohit&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harnerohit&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harnerohit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harnerohit&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=harnerohit&theme=catppuccin-mocha&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=harnerohit&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
