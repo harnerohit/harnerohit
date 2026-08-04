@@ -92,7 +92,7 @@ A production-ready Retrieval-Augmented Generation (RAG) application that enables
 
 `Python` • `FastAPI` • `LangChain` • `ChromaDB` • `Groq` • `HuggingFace` • `Next.js` • `TypeScript`
 
-> 🔗 **Repository:** *(Add repository link)*
+> 🔗 **Repository:** https://github.com/harnerohit/rag-pdf-chatbot
 
 ---
 
@@ -116,27 +116,6 @@ Built during **MumbaiHack**, GaslessAI simplifies blockchain interactions by com
 
 > 🔗 **Repository:** *(Add repository link)*
 
----
-
-## 💰 FinMan
-
-> **Modern Personal Finance Management Platform.**
-
-A full-stack finance application for tracking income, expenses, and financial insights through an intuitive dashboard.
-
-### Highlights
-
-- Income & Expense Tracking
-- Dashboard Analytics
-- Authentication
-- REST APIs
-- Responsive UI
-
-**Tech Stack**
-
-`Spring Boot` • `React` • `PostgreSQL`
-
-> 🔗 **Repository:** https://github.com/harnerohit/rag-pdf-chatbot
 ---
 
 ## 🔬 Currently Building
